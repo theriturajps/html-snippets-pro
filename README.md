@@ -81,7 +81,7 @@ Get started in 3 easy steps:
 
 ### Via Marketplace
 
-[![Install from Marketplace](https://img.shields.io/badge/Install%20from-Marketplace-blue?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=riturajps.html-snippets-pro)
+[![Install from Marketplace](https://img.shields.io/badge/Install%20from-Marketplace-blue.svg)](https://marketplace.visualstudio.com/items?itemName=riturajps.html-snippets-pro)
 
 ## ⚙️ Configuration
 
@@ -125,6 +125,7 @@ Released under the [MIT License](LICENSE).
 
 ## 👨‍💻 Developer
 
+<div align="center">
 <table>
   <tr>
     <td>
@@ -139,6 +140,7 @@ Released under the [MIT License](LICENSE).
     </td>
   </tr>
 </table>
+</div>
 
 ---
 

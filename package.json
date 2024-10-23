@@ -1,0 +1,55 @@
+{
+    "name": "html-snippets-pro",
+    "publisher": "riturajps",
+    "displayName": "HTML Snippets Pro",
+    "description": "Complete HTML & HTML5 code snippets for faster development.",
+    "icon": "assets/logo.png",
+    "galleryBanner": {
+        "color": "#0E0F15",
+        "theme": "dark"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/theriturajps/html-snippets-pro/issues"
+    },
+    "homepage": "https://github.com/theriturajps/html-snippets-pro/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/theriturajps/html-snippets-pro/blob/main/README.md"
+    },
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.22.0"
+    },
+    "categories": [
+        "Snippets",
+        "Extension Packs",
+        "Formatters"
+    ],
+    "keywords": [
+        "HTML",
+        "snippets",
+        "templates",
+        "boilerplate",
+        "web",
+        "development",
+        "html5",
+        "frontend",
+        "productivity",
+        "code-snippets",
+        "web-development",
+        "forms",
+        "layouts",
+        "semantic-html",
+        "template",
+        "accessibility"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}

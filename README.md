@@ -4,10 +4,10 @@
 
 ### Complete HTML & HTML5 code snippets for faster development
 
-[![Version](https://img.shields.io/visual-studio-marketplace/v/riturajps.html-snippets-pro?color=blue&label=VS%20Code%20Marketplace&logo=visual-studio-code&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=riturajps.html-snippets-pro)
-[![Downloads](https://img.shields.io/visual-studio-marketplace/d/riturajps.html-snippets-pro?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=riturajps.html-snippets-pro)
-[![Rating](https://img.shields.io/visual-studio-marketplace/r/riturajps.html-snippets-pro?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=riturajps.html-snippets-pro)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+[![Version](https://img.shields.io/visual-studio-marketplace/v/riturajps.html-snippets-pro?color=blue&label=VS%20Code%20Marketplace&logo=visual-studio-code&style=flat)](https://marketplace.visualstudio.com/items?itemName=riturajps.html-snippets-pro)
+[![Downloads](https://img.shields.io/visual-studio-marketplace/d/riturajps.html-snippets-pro?style=flat)](https://marketplace.visualstudio.com/items?itemName=riturajps.html-snippets-pro)
+[![Rating](https://img.shields.io/visual-studio-marketplace/r/riturajps.html-snippets-pro?style=flat)](https://marketplace.visualstudio.com/items?itemName=riturajps.html-snippets-pro)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat)](LICENSE)
 
 ![HTML Snippets Pro Banner](assets/logo.png)
 
